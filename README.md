@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viclen" alt="viclen" /> </p>
 
-- 👨‍💻 All of my projects are available at [victorlengler.com](victorlengler.com)
+- 👨‍💻 All of my projects are available at [//victorlengler.com](victorlengler.com)
 
 - 📫 How to reach me **victor.lengler@gmail.com**
 
